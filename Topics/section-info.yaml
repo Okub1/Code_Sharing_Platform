@@ -1,0 +1,39 @@
+content:
+- Relational operators
+- Integer types and operations
+- Conditional statement
+- Scanning the input
+- The for-loop
+- Branching statements
+- Switch statement
+- Calling a method
+- Declaring a method
+- Functional decomposition
+- Iterating over arrays
+- Defining classes
+- Multiple constructors
+- Package
+- Getters and setters
+- The keyword super
+- Static members
+- Hiding and overriding
+- Polymorphism
+- Interface
+- Constructor
+- toString()
+- Comparable
+- Introduction to generic programming
+- Generics and Object
+- ArrayList
+- The Collections Framework overview
+- The List interface
+- LocalDate
+- LocalTime
+- LocalDateTime
+- Default methods
+- Anonymous classes
+- Lambda expressions
+- Method references
+- Functional interfaces
+- Standard functional interfaces
+- Optional

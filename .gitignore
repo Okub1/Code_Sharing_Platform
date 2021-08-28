@@ -1,0 +1,282 @@
+# Project exclude paths
+/.gradle/
+/Code Sharing Platform/task/build/
+/Code Sharing Platform/task/out/
+/Code Sharing Platform/task/out/production/classes/
+/Code Sharing Platform/task/out/test/classes/
+/Topics/Anonymous classes/An anonymous class with three methods/out/
+/Topics/Anonymous classes/An anonymous class with three methods/out/production/classes/
+/Topics/Anonymous classes/Capture variables/out/
+/Topics/Anonymous classes/Capture variables/out/production/classes/
+/Topics/Anonymous classes/Implement Runnable/out/
+/Topics/Anonymous classes/Implement Runnable/out/production/classes/
+/Topics/Anonymous classes/Single method/out/
+/Topics/Anonymous classes/Single method/out/production/classes/
+/Topics/Anonymous classes/String reverser/out/
+/Topics/Anonymous classes/String reverser/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/The (un)-ordered sequence/out/
+/Topics/Branching statements/The (un)-ordered sequence/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Branching statements/The sequence/out/
+/Topics/Branching statements/The sequence/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
+/Topics/Calling a method/Area of parallelogram/out/
+/Topics/Calling a method/Area of parallelogram/out/production/classes/
+/Topics/Calling a method/Call me awesome/out/
+/Topics/Calling a method/Call me awesome/out/production/classes/
+/Topics/Calling a method/Theory/out/
+/Topics/Calling a method/Theory/out/production/classes/
+/Topics/Comparable/Implement compareTo method/out/
+/Topics/Comparable/Implement compareTo method/out/production/classes/
+/Topics/Comparable/Implement comparing by additional fields/out/
+/Topics/Comparable/Implement comparing by additional fields/out/production/classes/
+/Topics/Comparable/Theory/out/
+/Topics/Comparable/Theory/out/production/classes/
+/Topics/Conditional statement/Check a number is positive/out/
+/Topics/Conditional statement/Check a number is positive/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Conditional statement/Triangle/out/
+/Topics/Conditional statement/Triangle/out/production/classes/
+/Topics/Constructor/Account and its owner/out/
+/Topics/Constructor/Account and its owner/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
+/Topics/Declaring a method/Division/out/
+/Topics/Declaring a method/Division/out/production/classes/
+/Topics/Declaring a method/Theory/out/
+/Topics/Declaring a method/Theory/out/production/classes/
+/Topics/Default methods/Add new default method/out/
+/Topics/Default methods/Add new default method/out/production/classes/
+/Topics/Default methods/Implement a default method/out/
+/Topics/Default methods/Implement a default method/out/production/classes/
+/Topics/Default methods/Resolve a diamond problem/out/
+/Topics/Default methods/Resolve a diamond problem/out/production/classes/
+/Topics/Default methods/Theory/out/
+/Topics/Default methods/Theory/out/production/classes/
+/Topics/Defining classes/Books/out/
+/Topics/Defining classes/Books/out/production/classes/
+/Topics/Defining classes/Inner boxes/out/
+/Topics/Defining classes/Inner boxes/out/production/classes/
+/Topics/Defining classes/Theory/out/
+/Topics/Defining classes/Theory/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Functional decomposition/Decompose a math function/out/
+/Topics/Functional decomposition/Decompose a math function/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/
+/Topics/Functional interfaces/A lambda expression with seven arguments/out/production/classes/
+/Topics/Functional interfaces/Ternary predicate/out/
+/Topics/Functional interfaces/Ternary predicate/out/production/classes/
+/Topics/Functional interfaces/Theory/out/
+/Topics/Functional interfaces/Theory/out/production/classes/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/production/classes/
+/Topics/Generics and Object/Initialize an object of a generic class/out/
+/Topics/Generics and Object/Initialize an object of a generic class/out/production/classes/
+/Topics/Generics and Object/Theory/out/
+/Topics/Generics and Object/Theory/out/production/classes/
+/Topics/Getters and setters/Account/out/
+/Topics/Getters and setters/Account/out/production/classes/
+/Topics/Getters and setters/Book/out/
+/Topics/Getters and setters/Book/out/production/classes/
+/Topics/Getters and setters/Complex/out/
+/Topics/Getters and setters/Complex/out/production/classes/
+/Topics/Getters and setters/Getting the fullname/out/
+/Topics/Getters and setters/Getting the fullname/out/production/classes/
+/Topics/Getters and setters/Theory/out/
+/Topics/Getters and setters/Theory/out/production/classes/
+/Topics/Hiding and overriding/Shapes area/out/
+/Topics/Hiding and overriding/Shapes area/out/production/classes/
+/Topics/Hiding and overriding/Theory/out/
+/Topics/Hiding and overriding/Theory/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Interface/Area of a circle/out/
+/Topics/Interface/Area of a circle/out/production/classes/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/production/classes/
+/Topics/Interface/Mutable geometric shapes/out/
+/Topics/Interface/Mutable geometric shapes/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Lambda expressions/Apply function to all elements/out/
+/Topics/Lambda expressions/Apply function to all elements/out/production/classes/
+/Topics/Lambda expressions/Creating a closure/out/
+/Topics/Lambda expressions/Creating a closure/out/production/classes/
+/Topics/Lambda expressions/Expression closure/out/
+/Topics/Lambda expressions/Expression closure/out/production/classes/
+/Topics/Lambda expressions/Max of two integers/out/
+/Topics/Lambda expressions/Max of two integers/out/production/classes/
+/Topics/Lambda expressions/Next even number/out/
+/Topics/Lambda expressions/Next even number/out/production/classes/
+/Topics/Lambda expressions/Production of all numbers in the range/out/
+/Topics/Lambda expressions/Production of all numbers in the range/out/production/classes/
+/Topics/Lambda expressions/Theory/out/
+/Topics/Lambda expressions/Theory/out/production/classes/
+/Topics/LocalDate/10 days before/out/
+/Topics/LocalDate/10 days before/out/production/classes/
+/Topics/LocalDate/Getting information on a day/out/
+/Topics/LocalDate/Getting information on a day/out/production/classes/
+/Topics/LocalDate/The first and the last day of a month/out/
+/Topics/LocalDate/The first and the last day of a month/out/production/classes/
+/Topics/LocalDate/The last day of a month/out/
+/Topics/LocalDate/The last day of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/
+/Topics/LocalDateTime/Add 11 hours and print the date/out/production/classes/
+/Topics/LocalDateTime/Adding N minutes/out/
+/Topics/LocalDateTime/Adding N minutes/out/production/classes/
+/Topics/LocalDateTime/Merging date-time instances/out/
+/Topics/LocalDateTime/Merging date-time instances/out/production/classes/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/
+/Topics/LocalDateTime/The passed hours since the beginning of year/out/production/classes/
+/Topics/LocalDateTime/Theory/out/
+/Topics/LocalDateTime/Theory/out/production/classes/
+/Topics/LocalTime/Return time without seconds/out/
+/Topics/LocalTime/Return time without seconds/out/production/classes/
+/Topics/LocalTime/Seconds since start of a day/out/
+/Topics/LocalTime/Seconds since start of a day/out/production/classes/
+/Topics/LocalTime/Some hours and minutes ago/out/
+/Topics/LocalTime/Some hours and minutes ago/out/production/classes/
+/Topics/LocalTime/Theory/out/
+/Topics/LocalTime/Theory/out/production/classes/
+/Topics/Method references/Ascending and descending sorting/out/
+/Topics/Method references/Ascending and descending sorting/out/production/classes/
+/Topics/Method references/Theory/out/
+/Topics/Method references/Theory/out/production/classes/
+/Topics/Multiple constructors/Employee/out/
+/Topics/Multiple constructors/Employee/out/production/classes/
+/Topics/Multiple constructors/Movie/out/
+/Topics/Multiple constructors/Movie/out/production/classes/
+/Topics/Multiple constructors/Phone/out/
+/Topics/Multiple constructors/Phone/out/production/classes/
+/Topics/Multiple constructors/Theory/out/
+/Topics/Multiple constructors/Theory/out/production/classes/
+/Topics/Multiple constructors/Time/out/
+/Topics/Multiple constructors/Time/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
+/Topics/Package/Creating instances/out/
+/Topics/Package/Creating instances/out/production/classes/
+/Topics/Package/Theory/out/
+/Topics/Package/Theory/out/production/classes/
+/Topics/Polymorphism/Find mistake/out/
+/Topics/Polymorphism/Find mistake/out/production/classes/
+/Topics/Polymorphism/Publication and its subclasses/out/
+/Topics/Polymorphism/Publication and its subclasses/out/production/classes/
+/Topics/Polymorphism/Theory/out/
+/Topics/Polymorphism/Theory/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/Standard functional interfaces/Accounts/out/
+/Topics/Standard functional interfaces/Accounts/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
+/Topics/Standard functional interfaces/Theory/out/
+/Topics/Standard functional interfaces/Theory/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/
+/Topics/Switch statement/Floor-space of the room/out/
+/Topics/Switch statement/Floor-space of the room/out/production/classes/
+/Topics/Switch statement/From string to a number/out/
+/Topics/Switch statement/From string to a number/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
+/Topics/The Collections Framework overview/Squares list/out/
+/Topics/The Collections Framework overview/Squares list/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The product of numbers from a to b/out/
+/Topics/The for-loop/The product of numbers from a to b/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The keyword super/Bank account/out/
+/Topics/The keyword super/Bank account/out/production/classes/
+/Topics/The keyword super/Employees/out/
+/Topics/The keyword super/Employees/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Greek letters/out/
+/Topics/The List interface/Greek letters/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/toString()/Theory/out/
+/Topics/toString()/Theory/out/production/classes/
