@@ -9,7 +9,8 @@ Technologies used:
 Spring Boot framework,
 JPA - Java Persistence API,
 H2 database,
-Freemaker - template engine
+Freemaker - template engine,
+Gradle
 
 Concepts used:
 MVC,
