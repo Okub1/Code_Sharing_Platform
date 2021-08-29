@@ -1,8 +1,9 @@
 # Code_Sharing_Platform
 Jetbrains Academy project
 
+Also contains multiple tasks from previous topics.
 
-Final project (stage 5/5) can be found at <b>Code_Sharing_Platform/task</b>
+<h2><b>Final project (stage 5/5) can be found at Code_Sharing_Platform/task</b></h2>
 
 Technologies used:
 Spring Boot framework,
