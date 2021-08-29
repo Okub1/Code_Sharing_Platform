@@ -45,7 +45,7 @@ layered architecture (Presentation, Business, Persistence, Database)
 </ul>
 
 <h3>Known bugs</h3>
-  <i>none, app is perfect</i>
+  unnecessary spaces at first line of each snippet in html view, tried to fix it, couldn't find fix
   
 <h3>Screenshots</h3>
 <img src="https://user-images.githubusercontent.com/37751054/131235310-59798769-0df0-471e-86d8-82119b60ac59.png">
