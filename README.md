@@ -44,5 +44,5 @@ layered architecture (Presentation, Business, Persistence, Database)
     </ul>
 </ul>
 
-<h3>Known bugs<h3>
-  none, app is perfect
+<h3>Known bugs</h3>
+  <i>none, app is perfect</i>
