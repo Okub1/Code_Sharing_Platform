@@ -46,3 +46,6 @@ layered architecture (Presentation, Business, Persistence, Database)
 
 <h3>Known bugs</h3>
   <i>none, app is perfect</i>
+  
+<h3>Screenshots</h3>
+![demo_img](https://user-images.githubusercontent.com/37751054/131235310-59798769-0df0-471e-86d8-82119b60ac59.png)
