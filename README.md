@@ -54,4 +54,11 @@ These codes can be accessed only via their uuid.
   <ul>
   
 <h3>Screenshots</h3>
-<img src="https://user-images.githubusercontent.com/37751054/131235310-59798769-0df0-471e-86d8-82119b60ac59.png">
+    
+<div>
+  <div><img src="https://user-images.githubusercontent.com/37751054/131235310-59798769-0df0-471e-86d8-82119b60ac59.png"></div>
+  <div><img src="https://user-images.githubusercontent.com/37751054/131235586-8c5d486f-d1cf-4c70-a1bb-a883607aa426.png"></div>
+  <div><img src="https://user-images.githubusercontent.com/37751054/131235587-12c611b9-f7a3-43ae-988b-00d88e8537d0.png"></div>
+  <div><img src="https://user-images.githubusercontent.com/37751054/131235588-f8737dbd-de6c-4dde-a488-286f56d7f29b.png"></div>
+  <div><img src="https://user-images.githubusercontent.com/37751054/131235589-38081200-99ee-427f-a6a2-7b779387512d.png"></div>
+</div>
