@@ -1,4 +1,4 @@
-# Code_Sharing_Platform
+# Code Sharing Platform
 Jetbrains Academy project
 
 Also contains multiple tasks from previous topics.
